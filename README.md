@@ -9,4 +9,4 @@ Tasks:
 - Setting up developer tokens
 - Creating github secrets
 - Creating a quick local coding environment
-- Creating a github workflow that will automate our CI CD processes
+- Creating a github workflow that will automate our CI CD processes.
